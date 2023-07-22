@@ -1,5 +1,7 @@
+<div style="display: grid; place-items: center; height: 100vh;">
+  <img ... src="https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png" alt="logo" style="filter: blur(5px);">
+</div>
 
-  ![logo](https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png)
 
 <h1 align="center">Hi 👋, I'm Salah koulal</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
