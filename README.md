@@ -1,3 +1,4 @@
+![logo](https://github.com/salah-koulal/salah-koulal/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Salah koulal</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
