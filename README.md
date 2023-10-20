@@ -1,6 +1,6 @@
 <div style="display: grid; place-items: center; height: 100vh;">
-  <img src="https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png" alt="logo" style="filter: blur(10px);">
-</div>
+<!--   <img src="https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png" alt="logo" style="filter: blur(10px);"> -->
+</div> 
 
 
 <h1 align="center">Hi 👋, I'm Salah koulal</h1>
