@@ -1,5 +1,5 @@
 <div style="display: grid; place-items: center; height: 100vh;">
-  <img src="https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png" alt="logo" style="filter: blur(5px);">
+  <img src="https://github.com/salah-koulal/salah-koulal/blob/main/banner%20for%20github.png" alt="logo" style="filter: blur(10px);">
 </div>
 
 
