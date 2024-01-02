@@ -1,7 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4739F7&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi!+My+name+is+Salah+Eddine+Koulal;%F0%9F%A4%96+I'm+a+Full+Stack+Devoloper+;%F0%9F%87%B2%F0%9F%87%A6+From+Morocco" alt="Typing SVG" /></a></h2>
 
-<h3 align="center">A passionate Software Engineer from Morocco and a student at ALX SE from morocco</h3>
+<h3 align="center">A passionate Software Engineer from Morocco and a student at ALX SE from Morocco 🇲🇦 </h3>
 <img align="right" width="400" scr="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salah-koulal&label=Profile%20views&color=0e75b6&style=flat" alt="skoulal" /> </p>
